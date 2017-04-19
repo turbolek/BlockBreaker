@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Laser Defender\Assets\Scripts\FBHolder.cs">
+    <Files>
+      <File FileName="..\Laser Defender\Assets\Scripts\FBHolder.cs" Line="106" Column="1" />
+      <File FileName="..\Laser Defender\Assets\Scripts\MusicPlayer.cs" Line="18" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
